@@ -63,6 +63,14 @@ flutter:
   assets:
     - assets/img/Doctor 1.png
     - assets/img/Texture.png
+    - assets/img/avatar_img.png
+    - assets/img/drabir.png
+    - assets/img/drwarren.png
+    - assets/img/jenny_wilson.png
+    - assets/img/home-2.png
+    - assets/img/calendar.png
+    - assets/img/jennyWilson.png
+    - assets/img/Image Background.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
